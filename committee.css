@@ -1,0 +1,53 @@
+h1 {
+	font-family: Helvetica;
+	color:rgba(230,230,230,1);
+	font-weight: bold;
+}
+
+h2 {
+	font-family: Helvetica;
+	color:rgba(230,230,230,1);
+}
+
+body {
+	text-align: left;
+	font-family: Helvetica;
+	background: url("beach.jpg");
+	background-size: cover;
+	font-size: 14pt;
+	color: rgba(230,230,230,1);
+
+}
+
+
+}
+.navbar-inverse {
+	background-color: rgba(32,35,41,0.8);
+	border-bottom: none;
+
+}
+.navbar-inverse .nav >li >a {
+	font-family: Helvetica;
+	font-weight: bold;
+	color: rgba(230,230,230,1);
+}
+
+
+.container {
+	margin: 150px 70px 150px 70px;
+	padding: 20px 20px 20px 20px;
+	background-color: rgba(32,35,41,0.8);
+	}
+
+div {
+	margin:20px;
+}
+
+.contact {
+	font-weight: bold;
+}
+
+.foot {
+	font-size: 10pt;
+	text-align: center;
+}
