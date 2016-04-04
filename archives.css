@@ -1,0 +1,43 @@
+
+body {
+	background: url("bwrocks.png");
+	background-size: cover;
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 14pt;
+	color: rgba(230,230,230,1);
+}
+
+
+img {
+	padding-top: 20px;
+}
+.navbar-inverse {
+	background-color: rgba(32,35,41,0.8);
+	border-bottom: none;
+
+}
+.navbar-inverse .nav >li >a {
+	font-family: Helvetica;
+	font-weight: bold;
+	color: rgba(230,230,230,1);
+}
+
+
+.container {
+	margin-bottom: 50px;
+	margin-top: 50px;
+	padding: 50px;
+	}
+
+h2 {
+	font-size: 18pt;
+	color: white;
+	margin: 300px;
+
+}
+
+.foot {
+	font-size: 10pt;
+	color: black;
+}
